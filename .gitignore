@@ -1,5 +1,6 @@
 # Ignorar ambiente virtual
-tcc/
+venv/
+
 
 # Arquivos compilados Python
 __pycache__/
